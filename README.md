@@ -3,3 +3,7 @@
 
 Migration:
 `rake db:migrate`
+
+## Git
+
+Weird commits: `git cherry-pick (SHA)`
