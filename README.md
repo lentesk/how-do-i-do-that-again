@@ -1,7 +1,7 @@
 # how-do-i-do-that-again
 ## Common Error Messages
 
-Migration:
+Migration:<br>
 `rake db:migrate`
 
 Error connecting to Redis:<br>
