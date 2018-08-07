@@ -16,3 +16,6 @@ Weird commits: `git cherry-pick (SHA)`
 `git checkout master`<br>
 `git pull`<br>
 `./bin/deploy`
+
+## Fake CC <br>
+42 repeating
