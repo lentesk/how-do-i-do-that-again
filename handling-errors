@@ -1,4 +1,0 @@
-## Common Error Messages
-
-Migration:
-`rake db:migrate`
