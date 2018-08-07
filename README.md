@@ -3,6 +3,7 @@
 
 Migration:
 `rake db:migrate`
+
 Error connecting to Redis:
 `brew services list`
 `brew services start redis`
