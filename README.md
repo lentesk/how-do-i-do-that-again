@@ -7,3 +7,8 @@ Migration:
 ## Git
 
 Weird commits: `git cherry-pick (SHA)`
+
+## Deploying
+`git checkout master`
+`git pull`
+`./bin/deploy`
