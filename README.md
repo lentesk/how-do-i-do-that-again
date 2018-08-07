@@ -9,6 +9,6 @@ Migration:
 Weird commits: `git cherry-pick (SHA)`
 
 ## Deploying
-`git checkout master`
-`git pull`
+`git checkout master`<br>
+`git pull`<br>
 `./bin/deploy`
