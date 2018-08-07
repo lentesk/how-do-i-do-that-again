@@ -19,3 +19,4 @@ Weird commits: `git cherry-pick (SHA)`
 
 ## Fake CC <br>
 42 repeating
+https://stripe.com/docs/testing
