@@ -4,7 +4,7 @@
 Migration:
 `rake db:migrate`
 
-Error connecting to Redis:
+Error connecting to Redis:<br>
 `brew services list`<br>
 `brew services start redis`
 
