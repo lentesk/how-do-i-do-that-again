@@ -14,10 +14,12 @@ If binding.pry while loading server:<br>
 ## Git
 
 Weird commits: `git cherry-pick (SHA)`
+Checking out new branch<br>
+`git checkout ????`
 
 ## Deploying
 `git checkout master`<br>
-`git pull`<br>
+`git pull --rebase`<br>
 `./bin/deploy`
 
 ## Fake CC <br>
