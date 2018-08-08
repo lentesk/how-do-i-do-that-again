@@ -29,3 +29,7 @@ https://stripe.com/docs/testing
 ## Ruby Stuff
 
 Find meal id:<br>`Meal.find_by(slug: "london-broil-sirloin-steak-standard")`
+
+Translation error:<br>
+stop server, start back up
+maybe spring stop
