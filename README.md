@@ -8,6 +8,9 @@ Error connecting to Redis:<br>
 `brew services list`<br>
 `brew services start redis`
 
+If binding.pry while loading server:<br>
+`continue`
+
 ## Git
 
 Weird commits: `git cherry-pick (SHA)`
