@@ -11,6 +11,9 @@ Error connecting to Redis:<br>
 If binding.pry while loading server:<br>
 `continue`
 
+If PG::UndefinedFunction: ERROR:<br>
+`rake db:functions:load RAILS_ENV=test`
+
 ## Git
 
 Weird commits: `git cherry-pick (SHA)`
@@ -33,3 +36,4 @@ Find meal id:<br>`Meal.find_by(slug: "london-broil-sirloin-steak-standard")`
 Translation error:<br>
 stop server, start back up
 maybe spring stop
+
