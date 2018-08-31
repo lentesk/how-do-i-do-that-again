@@ -37,3 +37,7 @@ Translation error:<br>
 stop server, start back up
 maybe spring stop
 
+## Setting ENV
+
+`heroku config:set SOME_ENV=true -r prod` <br>
+https://devcenter.heroku.com/articles/config-vars
